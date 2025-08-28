@@ -1,2 +1,2 @@
-# dikaarfn.github.io
-Personal Portfolio
+# Personal Portfolio
+[Visit my portfolio website](http://dikaarfn.github.io/)
